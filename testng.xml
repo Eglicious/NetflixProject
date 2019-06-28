@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+<test verbose="2" preserve-order="true" name="C:/Users/13018/IdeaProjects/NetflixProject/src/test/java/netflixLogin/RunNetflixLogin.java">
+<classes>
+<class name="netflixLogin.RunNetflixLogin">
+<methods>
+<include name="wog"/>
+</methods>
+</class>
+</classes>
+</test>
+</suite>
